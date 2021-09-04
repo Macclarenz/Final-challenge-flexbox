@@ -182,6 +182,7 @@ nav {
 
 .hero-background {
     background-color: var(--lessBlack);
+    width: 100%;
 }
 
 .hero-container {
