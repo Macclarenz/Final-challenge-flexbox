@@ -30,10 +30,6 @@ header {
     position: relative;
 }
 
-main, footer {
-    width: 100%;
-}
-
 .container {
     width: 85%;
     max-width: 1200px;
@@ -182,7 +178,6 @@ nav {
 
 .hero-background {
     background-color: var(--lessBlack);
-    width: 100%;
 }
 
 .hero-container {
@@ -558,7 +553,7 @@ footer {
     }
 
     .article-content-2 {
-        margin-right: 7vmax;
+        margin-right: min(7vw, 8em);
         width: 100%;
     }
 
