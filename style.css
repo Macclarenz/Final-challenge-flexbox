@@ -30,6 +30,10 @@ header {
     position: relative;
 }
 
+main, footer {
+    width: 100%;
+}
+
 .container {
     width: 85%;
     max-width: 1200px;
