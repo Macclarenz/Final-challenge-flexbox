@@ -398,9 +398,7 @@ footer {
 @media only screen and (min-width: 700px) {
     /* HEADER NAVIGATION BAR */
     .nav-label {
-        display: none;
-
-        
+        display: none;      
     }
 
     header {
